@@ -1,4 +1,6 @@
 # Dvorak AltGr International
+![This is an image](dvorak-altgr-intl.png)
+
 This is a reference implementation of Dvorak International, with dead keys moved to the AltGr and AltGr+Shift modifier states. On Windows/DOS systems, this would traditionally use only characters available within the original codepages for Western European.
 
 # Building
